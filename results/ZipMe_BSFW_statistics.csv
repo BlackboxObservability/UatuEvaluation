@@ -1,0 +1,4 @@
+Experiment,PFA_size,Number_valid_configurations,Number_features,Number_PFAs,Number_valid_PFAs,Number_invalid_PFAs,Number_direct_observable_PFAs,Number_indirect_observable_PFAs,Number_non-observable_PFAs,Time
+ZipMe,1,64.0,9,18,15,3,12,0,3,0.017503738403320312
+ZipMe,2,64.0,9,144,99,45,60,0,39,0.08502817153930664
+ZipMe,3,64.0,9,672,377,295,160,0,217,1.5067462921142578

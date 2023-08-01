@@ -1,0 +1,6 @@
+# example that has overlapping causes
+
+d & t & p
+d & t & ~p
+d & ~t & p
+~d & ~t & ~p

@@ -1,0 +1,4 @@
+Experiment,PFA_size,Number_valid_configurations,Number_features,Number_PFAs,Number_valid_PFAs,Number_invalid_PFAs,Number_direct_observable_PFAs,Number_indirect_observable_PFAs,Number_non-observable_PFAs,Time
+VP8,1,2736.0,27,7,7,0,0,0,7,210.83845400810242
+VP8,2,2736.0,27,16,16,0,0,0,16,827.0568075180054
+VP8,3,2736.0,27,17,17,0,0,0,17,2849.7116146087646

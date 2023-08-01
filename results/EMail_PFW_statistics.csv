@@ -1,0 +1,4 @@
+Experiment,PFA_size,Number_valid_configurations,Number_features,Number_PFAs,Number_valid_PFAs,Number_invalid_PFAs,Number_direct_observable_PFAs,Number_indirect_observable_PFAs,Number_non-observable_PFAs,Time
+Email,1,40.0,10,20,18,2,8,0,10,0.049279212951660156
+Email,2,40.0,10,180,137,43,28,0,109,0.660038948059082
+Email,3,40.0,10,960,586,374,60,4,522,11.602625608444214

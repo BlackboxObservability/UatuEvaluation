@@ -1,0 +1,4 @@
+Experiment,PFA_size,Number_valid_configurations,Number_features,Number_PFAs,Number_valid_PFAs,Number_invalid_PFAs,Number_direct_observable_PFAs,Number_indirect_observable_PFAs,Number_non-observable_PFAs,Time
+BSN,1,298.0,11,22,22,0,18,0,4,0.8727805614471436
+BSN,2,298.0,11,220,214,6,138,8,68,22.051090240478516
+BSN,3,298.0,11,1320,1212,108,596,112,504,496.5311894416809

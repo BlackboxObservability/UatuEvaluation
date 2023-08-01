@@ -1,0 +1,3 @@
+Experiment,PFA_size,Number_valid_configurations,Number_features,Number_PFAs,Number_valid_PFAs,Number_invalid_PFAs,Number_direct_observable_PFAs,Number_indirect_observable_PFAs,Number_non-observable_PFAs,Time
+OpenVPN,1,512.0,24,10,10,0,1,0,9,8.97652554512024
+OpenVPN,2,512.0,24,3,3,0,0,0,3,4.661759853363037

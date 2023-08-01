@@ -1,0 +1,1 @@
+((rootDecision) & (~zipMe | rootDecision) & (zipMe) & (~zipMeCRC | zipMe) & (~zipMearchiveCheck | zipMe) & (~zipMeGZIP | zipMe) & (~zipMeadaptation | zipMe) & (~zipMeadlerChcksum | zipMe) & (~zipMecompress | zipMe) & (~zipMe | zipMecompress) & (~zipMeextract | zipMe))

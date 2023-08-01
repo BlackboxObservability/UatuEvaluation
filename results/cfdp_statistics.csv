@@ -1,0 +1,4 @@
+Experiment,PFA_size,Number_valid_configurations,Number_features,Number_PFAs,Number_valid_PFAs,Number_invalid_PFAs,Number_direct_observable_PFAs,Number_indirect_observable_PFAs,Number_non-observable_PFAs,Time
+CFDP,1,56.0,13,26,23,3,20,0,3,0.021524667739868164
+CFDP,2,56.0,13,312,225,87,134,46,45,0.22988271713256836
+CFDP,3,56.0,13,2288,1261,1027,386,574,301,5.73972749710083

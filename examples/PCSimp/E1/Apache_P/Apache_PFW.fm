@@ -1,0 +1,1 @@
+(rootDecision) & (~Base | rootDecision) & (Base) & (~HostnameLookups | rootDecision) & (~KeepAlive | rootDecision) & (~EnableSendfile | rootDecision) & (~FollowSymLinks | rootDecision) & (~AccessLog | rootDecision) & (~ExtendedStatus | rootDecision) & (~InMemory | rootDecision) & (~InMemory | ~Handle) & (~Handle | rootDecision)

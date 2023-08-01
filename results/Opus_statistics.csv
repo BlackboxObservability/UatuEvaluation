@@ -1,0 +1,6 @@
+Experiment,PFA_size,Number_valid_configurations,Number_features,Number_PFAs,Number_valid_PFAs,Number_invalid_PFAs,Number_direct_observable_PFAs,Number_indirect_observable_PFAs,Number_non-observable_PFAs,Time
+Opus,1,6480.0,31,8,8,0,0,0,8,1825.074411869049
+Opus,2,6480.0,31,18,18,0,0,0,18,6769.907078266144
+Opus,3,6480.0,31,16,16,0,0,0,16,19042.671083927155
+Opus,4,6480.0,31,16,16,0,0,0,16,78355.54962539673
+Opus,5,6480.0,31,8,8,0,0,0,8,203568.13247847557

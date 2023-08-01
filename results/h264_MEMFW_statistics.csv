@@ -1,0 +1,4 @@
+Experiment,PFA_size,Number_valid_configurations,Number_features,Number_PFAs,Number_valid_PFAs,Number_invalid_PFAs,Number_direct_observable_PFAs,Number_indirect_observable_PFAs,Number_non-observable_PFAs,Time
+h264,1,1152.0,17,34,30,4,14,0,16,50.95019054412842
+h264,2,1152.0,17,544,416,128,96,0,320,1567.0227191448212
+h264,3,1152.0,17,5440,3542,1898,448,0,3094,49977.63985204697

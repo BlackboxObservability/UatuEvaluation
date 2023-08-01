@@ -1,0 +1,4 @@
+And(m, e, c, ~a, ~r)
+And(m, e, ~c, ~a, r)
+And(m, e, ~c, a, ~r)
+And(m, ~e, ~c, ~a, ~r)

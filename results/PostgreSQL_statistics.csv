@@ -1,0 +1,2 @@
+Experiment,PFA_size,Number_valid_configurations,Number_features,Number_PFAs,Number_valid_PFAs,Number_invalid_PFAs,Number_direct_observable_PFAs,Number_indirect_observable_PFAs,Number_non-observable_PFAs,Time
+PostgreSQL,1,864.0,18,3,3,0,2,0,1,0.007431745529174805

@@ -1,0 +1,4 @@
+Experiment,PFA_size,Number_valid_configurations,Number_features,Number_PFAs,Number_valid_PFAs,Number_invalid_PFAs,Number_direct_observable_PFAs,Number_indirect_observable_PFAs,Number_non-observable_PFAs,Time
+MySQL,1,972.0,21,8,8,0,3,0,5,15.31024956703186
+MySQL,2,972.0,21,13,13,0,1,0,12,66.03963732719421
+MySQL,3,972.0,21,4,4,0,0,0,4,62.733351707458496

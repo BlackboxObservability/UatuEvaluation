@@ -1,0 +1,4 @@
+Experiment,PFA_size,Number_valid_configurations,Number_features,Number_PFAs,Number_valid_PFAs,Number_invalid_PFAs,Number_direct_observable_PFAs,Number_indirect_observable_PFAs,Number_non-observable_PFAs,Time
+Prevaylar,1,24.0,7,14,12,2,10,0,2,0.015437602996826172
+Prevaylar,2,24.0,7,84,60,24,38,2,20,0.03848743438720703
+Prevaylar,3,24.0,7,280,162,118,68,12,82,0.5176327228546143

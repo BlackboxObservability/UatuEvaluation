@@ -1,0 +1,4 @@
+Experiment,PFA_size,Number_valid_configurations,Number_features,Number_PFAs,Number_valid_PFAs,Number_invalid_PFAs,Number_direct_observable_PFAs,Number_indirect_observable_PFAs,Number_non-observable_PFAs,Time
+LLVM,1,1024.0,12,24,22,2,20,0,2,0.02072286605834961
+LLVM,2,1024.0,12,264,221,43,180,0,41,0.3927175998687744
+LLVM,3,1024.0,12,1760,1340,420,960,0,380,10.120908260345459

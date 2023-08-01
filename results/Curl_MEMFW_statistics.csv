@@ -1,0 +1,4 @@
+Experiment,PFA_size,Number_valid_configurations,Number_features,Number_PFAs,Number_valid_PFAs,Number_invalid_PFAs,Number_direct_observable_PFAs,Number_indirect_observable_PFAs,Number_non-observable_PFAs,Time
+Curl,1,768.0,14,28,25,3,16,0,9,7.961893558502197
+Curl,2,768.0,14,364,286,78,118,0,168,218.82346034049988
+Curl,3,768.0,14,2912,1985,927,544,0,1441,5721.789269685745

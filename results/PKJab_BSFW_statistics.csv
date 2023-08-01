@@ -1,0 +1,4 @@
+Experiment,PFA_size,Number_valid_configurations,Number_features,Number_PFAs,Number_valid_PFAs,Number_invalid_PFAs,Number_direct_observable_PFAs,Number_indirect_observable_PFAs,Number_non-observable_PFAs,Time
+PKJab,1,72.0,12,24,20,4,12,0,8,0.08258175849914551
+PKJab,2,72.0,12,264,177,87,60,2,115,1.7923102378845215
+PKJab,3,72.0,12,1760,919,841,166,18,735,39.65880823135376

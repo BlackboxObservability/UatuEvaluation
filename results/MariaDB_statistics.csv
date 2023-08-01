@@ -1,0 +1,4 @@
+Experiment,PFA_size,Number_valid_configurations,Number_features,Number_PFAs,Number_valid_PFAs,Number_invalid_PFAs,Number_direct_observable_PFAs,Number_indirect_observable_PFAs,Number_non-observable_PFAs,Time
+MariaDB,1,972.0,21,8,8,0,3,0,5,15.299228191375732
+MariaDB,2,972.0,21,15,15,0,1,0,14,75.46864461898804
+MariaDB,3,972.0,21,12,12,0,0,0,12,184.3011031150818

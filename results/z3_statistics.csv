@@ -1,0 +1,4 @@
+Experiment,PFA_size,Number_valid_configurations,Number_features,Number_PFAs,Number_valid_PFAs,Number_invalid_PFAs,Number_direct_observable_PFAs,Number_indirect_observable_PFAs,Number_non-observable_PFAs,Time
+z3,1,1024.0,14,6,6,0,2,0,4,4.058284282684326
+z3,2,1024.0,14,9,9,0,0,0,9,18.74241876602173
+z3,3,1024.0,14,3,3,0,0,0,3,17.18409562110901

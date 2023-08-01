@@ -1,0 +1,2 @@
+(rootDecision) & (~base | rootDecision) & (base) & (~compressed | rootDecision) & (~dump_header | rootDecision) & (~include | rootDecision) & (~no_buffer | rootDecision) & (~no_keepalive | rootDecision) & (~raw | rootDecision) & (~http1_0 | rootDecision) & (~progress_bar | rootDecision) & (~verbosity | rootDecision) & (verbosity) & (~trace | verbosity) & (~verbosity | (trace ^ verbose ^ silent)) & (~verbose | verbosity) & (~verbosity | (verbose ^ trace ^ silent)) & (~silent | verbosity) & (~verbosity | (silent ^ trace ^ verbose))
+ 

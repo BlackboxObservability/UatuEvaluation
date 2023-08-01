@@ -1,0 +1,4 @@
+Experiment,PFA_size,Number_valid_configurations,Number_features,Number_PFAs,Number_valid_PFAs,Number_invalid_PFAs,Number_direct_observable_PFAs,Number_indirect_observable_PFAs,Number_non-observable_PFAs,Time
+HSQLDB,1,864.0,29,10,10,0,0,0,10,40.14662408828735
+HSQLDB,2,864.0,29,5,5,0,0,0,5,32.80872416496277
+HSQLDB,3,864.0,29,6,6,0,0,0,6,128.30262327194214

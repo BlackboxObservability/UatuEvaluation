@@ -1,0 +1,4 @@
+Experiment,PFA_size,Number_valid_configurations,Number_features,Number_PFAs,Number_valid_PFAs,Number_invalid_PFAs,Number_direct_observable_PFAs,Number_indirect_observable_PFAs,Number_non-observable_PFAs,Time
+Lrzip,1,432.0,20,40,38,2,6,0,32,10.287655115127563
+Lrzip,2,432.0,20,760,634,126,114,0,520,250.40667176246643
+Lrzip,3,432.0,20,9120,6262,2858,620,0,5642,11469.832596063614

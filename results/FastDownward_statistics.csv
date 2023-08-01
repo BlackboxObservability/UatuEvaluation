@@ -1,0 +1,4 @@
+Experiment,PFA_size,Number_valid_configurations,Number_features,Number_PFAs,Number_valid_PFAs,Number_invalid_PFAs,Number_direct_observable_PFAs,Number_indirect_observable_PFAs,Number_non-observable_PFAs,Time
+FastDownward,1,347.0,60,15,15,0,0,0,15,15.100926637649536
+FastDownward,2,347.0,60,18,18,0,0,0,18,44.77671408653259
+FastDownward,3,347.0,60,8,8,0,0,0,8,84.34355139732361

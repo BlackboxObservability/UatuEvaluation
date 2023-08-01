@@ -1,0 +1,4 @@
+Experiment,PFA_size,Number_valid_configurations,Number_features,Number_PFAs,Number_valid_PFAs,Number_invalid_PFAs,Number_direct_observable_PFAs,Number_indirect_observable_PFAs,Number_non-observable_PFAs,Time
+Minepump,1,128.0,11,22,20,2,14,0,6,0.12824368476867676
+Minepump,2,128.0,11,220,177,43,88,4,85,2.101459264755249
+Minepump,3,128.0,11,1320,914,406,324,48,542,42.74537515640259

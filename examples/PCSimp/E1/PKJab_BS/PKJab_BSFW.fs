@@ -1,0 +1,12 @@
+rootDecision
+Base
+ContactListSource
+ServerRoster
+XEP0085
+Composing
+SendComposing
+History
+Timestamps
+XEP0092
+SendVersion
+ThemeSelection

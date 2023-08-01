@@ -1,0 +1,1 @@
+root & (~group | (a ^ b ^ c ^ d)) & (~a | group) & (~b | group) & (~c | group) & (~d | group)

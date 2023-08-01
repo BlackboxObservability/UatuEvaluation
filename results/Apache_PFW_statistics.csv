@@ -1,0 +1,4 @@
+Experiment,PFA_size,Number_valid_configurations,Number_features,Number_PFAs,Number_valid_PFAs,Number_invalid_PFAs,Number_direct_observable_PFAs,Number_indirect_observable_PFAs,Number_non-observable_PFAs,Time
+Apache,1,192.0,10,20,18,2,16,0,2,0.0156400203704834
+Apache,2,192.0,10,180,144,36,110,2,32,0.10175776481628418
+Apache,3,192.0,10,960,674,286,424,24,226,2.028670072555542

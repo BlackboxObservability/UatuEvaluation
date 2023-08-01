@@ -1,0 +1,4 @@
+Experiment,PFA_size,Number_valid_configurations,Number_features,Number_PFAs,Number_valid_PFAs,Number_invalid_PFAs,Number_direct_observable_PFAs,Number_indirect_observable_PFAs,Number_non-observable_PFAs,Time
+LinkedList,1,204.0,19,38,34,4,6,0,28,5.418823003768921
+LinkedList,2,204.0,19,684,521,163,38,2,481,166.5009424686432
+LinkedList,3,204.0,19,7752,4809,2943,144,36,4629,5939.695266962051

@@ -1,0 +1,4 @@
+Experiment,PFA_size,Number_valid_configurations,Number_features,Number_PFAs,Number_valid_PFAs,Number_invalid_PFAs,Number_direct_observable_PFAs,Number_indirect_observable_PFAs,Number_non-observable_PFAs,Time
+Elevator,1,256.0,9,18,17,1,16,0,1,0.01065206527709961
+Elevator,2,256.0,9,144,128,16,112,0,16,0.04694366455078125
+Elevator,3,256.0,9,672,560,112,448,0,112,0.8013308048248291
