@@ -1,6 +1,6 @@
 # Blackbox Observability of Features and Feature Interactions
 
-This repository is the supplementary Web site for the paper "Blackbox Observability of Features and Feature Interactions" submitted to the ICSE. In this repository, we list further information to the paper. 
+This repository is the supplementary Web site for the paper "Blackbox Observability of Features and Feature Interactions" submitted to the ASE. In this repository, we list further information to the paper. 
 ## Requirements
 To replicate our results, one has to install the following python packages:
 * [pandas](https://pandas.pydata.org/docs/getting_started/install.html)
